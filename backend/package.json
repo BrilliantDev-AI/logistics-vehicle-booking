@@ -4,7 +4,7 @@
   "description": "fleetlink a vehicle booking platfrom",
   "main": "index.js",
   "type": "module",
-  "scripts": {
+  "scripts": {  
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
     "test": "jest --detectOpenHandles --runInBand"
