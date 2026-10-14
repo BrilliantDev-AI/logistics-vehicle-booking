@@ -7,5 +7,5 @@ const PORT = process.env.PORT || 5000;
 connectDB();
 
 app.listen(PORT, () => {
-  console.log(`FleetLink API running on port ${PORT}`);
+  console.log(`FleetLink API running on port ${PORT}`);//
 });
